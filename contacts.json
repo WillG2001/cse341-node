@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Gwen",
+        "lastName": "Giard",
+        "email": "gwengiard@test.com",
+        "favoriteColor": "Pink",
+        "birthday": "01/23/07"
+    },
+    "contact2": {
+        "firstName": "Chris",
+        "lastName": "Giard",
+        "email": "chrisgiard@test.com",
+        "favoriteColor": "Blue",
+        "birthday": "10/22/75"
+    },
+    "contact3": {
+        "firstName": "Megan",
+        "lastName": "Giard",
+        "email": "megangiard@test.com",
+        "favoriteColor": "Pink",
+        "birthday": "11/10/74"
+    }
+}
