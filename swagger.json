@@ -5,7 +5,7 @@
     "description": "Contacts",
     "version": "1.0.0"
   },
-  "host": "https://lesson2-76r3.onrender.com",
+  "host": "lesson2-76r3.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
