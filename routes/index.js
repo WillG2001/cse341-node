@@ -8,4 +8,6 @@ router.use('/contacts', require('./contacts'));
 // routes.get('/', lesson1Controller.archieRoute);
 // routes.get('/gwen', lesson1Controller.gwenRoute);
 
+router.use('/', require('./swagger'));
+
 module.exports = router;
